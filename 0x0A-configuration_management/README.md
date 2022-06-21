@@ -1,1 +1,1 @@
-# 0x0A-configuration_management Project
+0x0A-configuration_management Project
